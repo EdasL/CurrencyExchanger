@@ -1,0 +1,17 @@
+C:\Users\elaka\source\repos\CurrencyExchange\CurrencyExchangeTester\obj\Debug\CurrencyExchangeTester.csprojAssemblyReference.cache
+C:\Users\elaka\source\repos\CurrencyExchange\CurrencyExchangeTester\obj\Debug\CurrencyExchangeTester.csproj.CoreCompileInputs.cache
+C:\Users\elaka\source\repos\CurrencyExchange\CurrencyExchangeTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\elaka\source\repos\CurrencyExchange\CurrencyExchangeTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\elaka\source\repos\CurrencyExchange\CurrencyExchangeTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\elaka\source\repos\CurrencyExchange\CurrencyExchangeTester\bin\Debug\CurrencyExchangeTester.dll
+C:\Users\elaka\source\repos\CurrencyExchange\CurrencyExchangeTester\bin\Debug\CurrencyExchangeTester.pdb
+C:\Users\elaka\source\repos\CurrencyExchange\CurrencyExchangeTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\elaka\source\repos\CurrencyExchange\CurrencyExchangeTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\elaka\source\repos\CurrencyExchange\CurrencyExchangeTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\elaka\source\repos\CurrencyExchange\CurrencyExchangeTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\elaka\source\repos\CurrencyExchange\CurrencyExchangeTester\obj\Debug\CurrencyExchangeTester.csproj.CopyComplete
+C:\Users\elaka\source\repos\CurrencyExchange\CurrencyExchangeTester\obj\Debug\CurrencyExchangeTester.dll
+C:\Users\elaka\source\repos\CurrencyExchange\CurrencyExchangeTester\obj\Debug\CurrencyExchangeTester.pdb
+C:\Users\elaka\source\repos\CurrencyExchange\CurrencyExchangeTester\bin\Debug\CurrencyExchange.exe
+C:\Users\elaka\source\repos\CurrencyExchange\CurrencyExchangeTester\bin\Debug\CurrencyExchange.pdb
+C:\Users\elaka\source\repos\CurrencyExchange\CurrencyExchangeTester\bin\Debug\CurrencyExchange.exe.config

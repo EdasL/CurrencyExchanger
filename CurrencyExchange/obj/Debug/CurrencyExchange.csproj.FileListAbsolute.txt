@@ -1,0 +1,7 @@
+C:\Users\elaka\source\repos\CurrencyExchange\CurrencyExchange\bin\Debug\CurrencyExchange.exe.config
+C:\Users\elaka\source\repos\CurrencyExchange\CurrencyExchange\bin\Debug\CurrencyExchange.exe
+C:\Users\elaka\source\repos\CurrencyExchange\CurrencyExchange\bin\Debug\CurrencyExchange.pdb
+C:\Users\elaka\source\repos\CurrencyExchange\CurrencyExchange\obj\Debug\CurrencyExchange.csproj.CoreCompileInputs.cache
+C:\Users\elaka\source\repos\CurrencyExchange\CurrencyExchange\obj\Debug\CurrencyExchange.exe
+C:\Users\elaka\source\repos\CurrencyExchange\CurrencyExchange\obj\Debug\CurrencyExchange.pdb
+C:\Users\elaka\source\repos\CurrencyExchange\CurrencyExchange\obj\Debug\CurrencyExchange.csprojAssemblyReference.cache
